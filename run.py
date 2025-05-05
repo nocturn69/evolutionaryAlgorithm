@@ -24,7 +24,7 @@ Logging options:
 
 Evolution parameters:
   --pop-size=NUM        number of solutions in population [default: 100]
-  --generations=NUM     number of evolution iterations [default: 500]
+  --generations=NUM     number of evolution iterations [default: 1500]
 
 """
 import sys
